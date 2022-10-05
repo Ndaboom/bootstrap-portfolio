@@ -7,13 +7,12 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS
+- Bootstrap
 
-## Live Demo (if available)
+## Live Demo (No live demo yet)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]()
 
 
 ## Getting Started
